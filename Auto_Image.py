@@ -39,6 +39,13 @@ def criar_pasta():
 # Função principal responsável pelo funcionamento do programa.
 def baixar_imagens():
 
+    print('####################################')
+    print('#                                  #')
+    print('#   Programa criado por: LukyMDI   #')
+    print('#   Discord: Luky#8907             #')
+    print('#                                  #')
+    print('####################################\n')
+
     # Input para obtenção da URL do site
     obter_url = input('URL: ')
 
